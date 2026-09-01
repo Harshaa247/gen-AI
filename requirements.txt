@@ -1,2 +1,3 @@
 groq
 audio_recorder_streamlit
+edge_tts
